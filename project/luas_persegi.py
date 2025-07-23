@@ -4,7 +4,6 @@
 #1.Buatkan saya program cara menghitung luas sisi persegi!
 
 ##Hasilnya
-
 print("=========Hitung sisi persegi=============")
 Luas = float(input("Berapa luas sisi dari persegi? :"))
 hasil = Luas * Luas
