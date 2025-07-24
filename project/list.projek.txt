@@ -1,4 +1,3 @@
 A.List projek yang dikerjakan 
     1.input variable string sederhana (str)
     2.menghitung luas persegi 
-    3.
