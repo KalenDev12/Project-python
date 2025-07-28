@@ -1,3 +1,3 @@
-Projek dasar belajar python
+## Projek dasar belajar python
 
-hasil dari beberapa projek
+- hasil dari beberapa projek
