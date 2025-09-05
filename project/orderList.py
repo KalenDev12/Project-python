@@ -7,7 +7,7 @@ def Daftar_Software():
     for i, item in enumerate(List1, start=1):
         print(f"{i}. {item}")
 
-## Input Software And Condition
+## Input Software And Condition:
 def main():
     while True:
         Daftar_Software()
@@ -24,3 +24,4 @@ def main():
             print("Masukkan angka :")
 
 main()
+
